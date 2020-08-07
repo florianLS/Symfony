@@ -1,0 +1,21 @@
+Avant chaque modif, bien s'assurer d'être a jour par rapport a la version git
+
+Pour cela faire git pull origin master
+
+Ensuite faire ses modifs
+
+A la fin de tes modifs faire 
+
+git checkout -b MANOUVELLEBRANCH (pour créer et passer sur une nouvelle branche)
+
+git add . (pour ajouter toutes les modifs faites sur la nouvelle branch)
+
+git commit -m "message pour notifier ses modifs" (laisser un message de notification)
+
+git push origin MANOUVELLEBRANCH (pour envoyer sa branch)
+
+ENSUITE TU TOUCHE PLU A RIEN
+
+tu vas sur git
+
+ton projet
