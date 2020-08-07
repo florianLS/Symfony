@@ -18,4 +18,16 @@ ENSUITE TU TOUCHE PLU A RIEN
 
 tu vas sur git
 
-ton projet
+
+
+ton projet, puis compare & pull request
+
+puis create pull request -> merge pull request - > confirm merge
+
+tu retourne sur visual studio code
+
+tu reviens sur la branch master : git checkout master
+
+git pull origin master
+
+Et tu fais tes modifs a nouveau
