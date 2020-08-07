@@ -1,0 +1,9 @@
+#index:
+#    path: /
+#    controller: App\Controller\DefaultController::index
+
+# config/routes.yaml
+
+oc_advert_add:
+    path:       /advert/add
+    controller: App\Controller\AdvertController::add
